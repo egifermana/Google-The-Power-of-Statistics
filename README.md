@@ -1,14 +1,12 @@
 # The Power of Statistics Course by Google
 
-![The Power of Statistics Certificate](Certificate.png)
-
 ## Overview
 
 This repository showcases my achievements and projects completed during "The Power of Statistics" course offered by Google on Coursera. The course provides a comprehensive understanding of statistical concepts and their practical applications.
 
 ## Certificate
 
-![Certificate of Completion](<insert image URL of your certificate if available>)
+![Certificate of Completion](Certificate.png)
 
 **Credential ID:** MAWXGHB2ZZ3Q (Replace with your actual Credential ID)
 
