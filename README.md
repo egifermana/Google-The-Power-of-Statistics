@@ -8,11 +8,11 @@ This repository showcases my achievements and projects completed during "The Pow
 
 ![Certificate of Completion](Certificate.png)
 
-**Credential ID:** MAWXGHB2ZZ3Q (Replace with your actual Credential ID)
+**Credential ID:** MAWXGHB2ZZ3Q
 
 **Issued by:** Google on Coursera
 
-**Verify the Certificate:** [Verify on Coursera](<insert verification link>)
+**Verify the Certificate:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/records/MAWXGHB2ZZ3Q)
 
 ## Course Content
 
